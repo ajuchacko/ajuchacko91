@@ -5,7 +5,7 @@
 - 📫 reach me via : email
 
 
-[![Aju's github stats](https://github-readme-stats.vercel.app/api?username=ajuchacko91&hide=stars,issues&show_icons=true&count_private=true)]
+![Aju's github stats](https://github-readme-stats.vercel.app/api?username=ajuchacko91&hide=stars,issues&show_icons=true&count_private=true)
 
 
 <!---
