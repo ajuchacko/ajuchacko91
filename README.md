@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aju Chacko. I am a Indian web developer passionated by PHP, ReactJS and Open-Source Softwares
+My name is Aju Chacko. I am a Indian web developer passionate by PHP, ReactJS and Open-Source Softwares
 As far as possible, I contribute to projects or publish my own work.
 
 I am currently learning how to build fast and reliable static websites using NextJS. Also I read lot of papers and online courses.
