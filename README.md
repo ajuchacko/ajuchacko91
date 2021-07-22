@@ -1,6 +1,15 @@
+### Hi there 👋
+
+My name is Aju Chacko. I am a Indian web developer passionated by PHP, ReactJS and Open-Source Softwares
+As far as possible, I contribute to projects or publish my own work.
+
+I am currently learning how to build fast and reliable static websites using NextJS. Also I read lot of papers and online courses.
+
+On free time, I love to help people on [laravel/framework issues page](https://github.com/laravel/framework/issues) 
+
 - 👋 Hi, I’m @ajuchacko91 (aka Aju Chacko)
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Nextjs & Docker
 - 💞️ I’m looking to collaborate on Open Source Stuff
 - 📫 reach me via : email
 
