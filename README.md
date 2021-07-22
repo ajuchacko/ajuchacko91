@@ -13,6 +13,8 @@ On free time, I love to help people on [laravel/framework issues page](https://g
 - 💞️ I’m looking to collaborate on Open Source Stuff
 - 📫 reach me via : email
 
+<a href="https://stackoverflow.com/users/5208788/ajuchacko91"><img src="https://stackoverflow.com/users/flair/2157818.png" width="208" height="58" alt="profile for Aju Chacko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aju Chacko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 ![Aju's github stats](https://github-readme-stats.vercel.app/api?username=ajuchacko91&hide=stars,issues&show_icons=true&count_private=true)
 
